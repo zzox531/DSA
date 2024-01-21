@@ -1,0 +1,2 @@
+This repository contains solutions for 2023/24 (Winter) DSA course of University of Warsaw.
+Every folder contains a .pdf file with the description of the problem (in Polish) and .cpp file with its' solution.
